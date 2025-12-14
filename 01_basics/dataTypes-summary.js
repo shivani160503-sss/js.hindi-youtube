@@ -36,4 +36,4 @@ function myFunction(){
     console.log("Hello User");
 }
 
-myFunctionr();
+myFunction();
